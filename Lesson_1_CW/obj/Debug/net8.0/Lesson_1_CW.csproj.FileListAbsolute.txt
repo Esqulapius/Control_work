@@ -1,0 +1,14 @@
+D:\GB studying\Control_work\Lesson_1_CW\bin\Debug\net8.0\Lesson_1_CW.exe
+D:\GB studying\Control_work\Lesson_1_CW\bin\Debug\net8.0\Lesson_1_CW.deps.json
+D:\GB studying\Control_work\Lesson_1_CW\bin\Debug\net8.0\Lesson_1_CW.runtimeconfig.json
+D:\GB studying\Control_work\Lesson_1_CW\bin\Debug\net8.0\Lesson_1_CW.dll
+D:\GB studying\Control_work\Lesson_1_CW\bin\Debug\net8.0\Lesson_1_CW.pdb
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.AssemblyInfoInputs.cache
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.AssemblyInfo.cs
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.csproj.CoreCompileInputs.cache
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.dll
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\refint\Lesson_1_CW.dll
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.pdb
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\Lesson_1_CW.genruntimeconfig.cache
+D:\GB studying\Control_work\Lesson_1_CW\obj\Debug\net8.0\ref\Lesson_1_CW.dll
